@@ -51,7 +51,8 @@ plt.show()
 ```
 
 ## Output:
-![Uploading image.png…]()
+<img width="1326" height="608" alt="image" src="https://github.com/user-attachments/assets/059da006-4d26-46f1-ab98-3f96e09de730" />
+
 
 
 ## Result:
